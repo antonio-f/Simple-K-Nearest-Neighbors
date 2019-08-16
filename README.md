@@ -1,2 +1,2 @@
-# Simple-K-Nearest-Neighbors
-Simple K-Nearest Neighbors using partial sort
+# Simple K-Nearest Neighbors
+Simple K-Nearest Neighbors using partial sort.
